@@ -1,2 +1,4 @@
 config/debug.log
 config/system.log
+zadanie3/*.csv
+venv/
